@@ -1,0 +1,10 @@
+ Volume in drive C is Windows
+ Volume Serial Number is 4A0E-59A3
+
+ Directory of C:\GitTest
+
+08/19/2017  10:49 AM    <DIR>          .
+08/19/2017  10:49 AM    <DIR>          ..
+08/19/2017  10:49 AM                 0 test.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  231,754,207,232 bytes free
